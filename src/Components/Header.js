@@ -8,7 +8,7 @@ export default function Header() {
                 
             </div> */}
             <img className='nav-logo' src={navlogo} />
-            <span className="heading">my travel journal.</span>
+            <span className="heading">myyyy travel journal.</span>
         </nav>
     )
 }
